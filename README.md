@@ -166,8 +166,7 @@ Auto-Scaffold AI is an AI-powered developer tool that detects a codebase's langu
 
 > Fast access to AI-powered functionality through a keyboard-driven interface.
 
-**Maintained by:** Swayam Krishna Sahu  
-**Based on:** ScreenAssistant by Satyam1616  
+**Role:** Developer & Maintainer  
 **Focus:** Desktop UI · AI integration · User experience
 
 **What it is**  

@@ -99,30 +99,7 @@ Always curious, always learning, and always building something new. 🚀
 
 ## Featured Projects
 
-> A selection of projects I have worked on or contributed to. Roles and contributions are described as I experienced them; some repositories are private or not published yet.
-
-### 🛰️ OmniRE
-**AI-Powered Software Intelligence, Reverse Engineering & Optimization Platform**
-
-> Understanding software systems, connecting evidence and proposing testable optimizations.
-
-**Role:** Software Architect & AI Developer  
-**Focus:** AI reasoning · Knowledge graphs · Software analysis · Optimization  
-**Status:** _[Add status]_  
-**Repository:** _[Add repository link]_ <!-- TODO: Add the OmniRE repository URL -->
-
-**What it is**  
-OmniRE is an AI-powered software intelligence platform designed to understand existing software systems, reverse-engineer their architecture, analyze application behavior and identify opportunities for improvement. It aims to go beyond simply identifying software issues by connecting findings, analyzing evidence and proposing testable optimization solutions.
-
-**My contributions**
-
-- Contributed to the overall system architecture.
-- Worked on AI intelligence and analysis components.
-- Contributed to knowledge graph design.
-- Worked on evidence-grounded AI reasoning.
-- Explored software behavior analysis and optimization.
-
----
+> A selection of projects I have worked on or contributed to.
 
 ### 🏥 MediSync
 **AI-Powered Healthcare Assistance**
@@ -130,12 +107,10 @@ OmniRE is an AI-powered software intelligence platform designed to understand ex
 > Intelligent healthcare assistance supported by structured medical data.
 
 **Role:** AI/ML Developer & Dataset Contributor  
-**Focus:** Healthcare AI · Datasets · Intelligent assistance  
-**Status:** _[Add status]_  
-**Repository:** [swayamkrishnasahu-png/MediSyncAI](https://github.com/swayamkrishnasahu-png/MediSyncAI)
+**Focus:** Healthcare AI · Datasets · Intelligent assistance
 
 **What it is**  
-MediSync is an AI-powered healthcare assistance project focused on preliminary healthcare guidance through intelligent symptom analysis and structured medical datasets. The public repository also includes a locally run, multilingual medical Q&A workflow and health-record management.
+MediSync is an AI-powered healthcare assistance project focused on preliminary healthcare guidance through intelligent symptom analysis and structured medical datasets. The project also includes a locally run, multilingual medical Q&A workflow and health-record management.
 
 **My contributions**
 
@@ -146,24 +121,23 @@ MediSync is an AI-powered healthcare assistance project focused on preliminary h
 
 ---
 
-### ⚡ TypeScript to Action
-**TypeScript-Based Frontend Project**
+### 🎙️ Transcript2Action
+**Transcript-to-Action-Item Extraction with Source Traceability**
 
-> A TypeScript-based frontend project focused on application functionality and debugging.
+> Turning transcripts into clear, traceable action items.
 
-**Role:** Frontend Developer & Debugging Contributor  
-**Focus:** TypeScript · Frontend · Debugging  
-**Status:** _[Add status]_  
-**Repository:** _[Add repository link]_ <!-- TODO: No public repository with this name was found. Do not link Transcript2Action without confirming it is the same project. -->
+**Role:** AI Agent Engineer & Provider Router  
+**Focus:** Multi-agent pipelines · LLM provider routing · Transcript processing
 
 **What it is**  
-A TypeScript-based software project involving frontend development and application functionality.
+Transcript2Action is a Python application that converts transcripts into actionable items while preserving full source traceability. It supports `.txt`, `.srt`, `.vtt`, `.docx`, and `.pdf` files and uses a three-agent pipeline: NVIDIA for extraction, Google for validation, and OpenRouter as an automatic fallback. Each extracted action links back to its exact transcript segment, includes a confidence score, and can be exported to Excel.
 
 **My contributions**
 
-- Contributed to frontend development.
-- Worked on debugging and resolving application issues.
-- Helped improve interface functionality.
+- Worked as an AI Agent Engineer on the multi-agent pipeline.
+- Contributed to provider routing and fallback behavior across NVIDIA, Google, and OpenRouter.
+- Worked on transcript processing and action extraction.
+- Helped keep extracted actions traceable to their source segments.
 
 ---
 
@@ -172,36 +146,31 @@ A TypeScript-based software project involving frontend development and applicati
 
 > Fast access to AI-powered functionality through a keyboard-driven interface.
 
-**Role:** Frontend Developer  
-**Focus:** Desktop UI · AI integration · User experience  
-**Status:** _[Add status]_  
-**Repository:** [swayamkrishnasahu-png/QuickAccessAI](https://github.com/swayamkrishnasahu-png/QuickAccessAI)
+**Created and maintained by:** Swayam Krishna Sahu  
+**Focus:** Desktop UI · AI integration · User experience
 
 **What it is**  
-An AI-focused application project designed around providing users with an accessible interface for interacting with AI-powered functionality. The public repository describes a keyboard-driven desktop assistant that captures on-screen text and returns AI-generated answers in a lightweight overlay.
-
-<!-- Note: The public QuickAccessAI README describes the ScreenAssistant project and credits Satyam1616. Confirm your contribution and repository ownership before publishing this card. -->
+An AI-focused desktop application I created, designed around giving users fast access to AI-powered functionality through a keyboard-driven interface. It captures on-screen text and returns AI-generated answers in a lightweight overlay.
 
 **My contributions**
 
-- Contributed to frontend development.
-- Worked on user interface implementation.
+- Designed and built the application.
+- Developed the frontend and user interface.
+- Integrated AI-powered functionality.
 - Focused on user experience and accessibility.
 
 ---
 
 ### 💸 ByteBucks
-**Frontend & User Experience**
+**NFT-Based Application for Users**
 
-> A user-facing application experience focused on clean, usable interfaces.
+> A user-focused NFT application built around a clear, accessible interface.
 
 **Role:** Frontend Developer  
-**Focus:** Frontend implementation · UI development · Usability  
-**Status:** _[Add status]_  
-**Repository:** _[Add repository link]_ <!-- TODO: Add the ByteBucks repository URL -->
+**Focus:** NFTs · Frontend · User experience
 
 **What it is**  
-A software application project where I contributed to the frontend interface and user-facing experience.
+ByteBucks is an NFT-based application built for users, with a focus on a clear and accessible interface for interacting with NFT features.
 
 **My contributions**
 

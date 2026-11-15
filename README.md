@@ -316,15 +316,7 @@ returns, replace the card above with this block:
 [![Contribution Activity](https://github-readme-activity-graph.vercel.app/graph?username=swayamkrishnasahu-png&bg_color=0D1117&color=22D3EE&line=A78BFA&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Activity)](https://github.com/swayamkrishnasahu-png?tab=overview)
 -->
 
-<!--
-Optional: Contribution Snake
-
-1. The workflow is provided at .github/workflows/snake.yml.
-2. Allow GitHub Actions to write to the repository (Settings → Actions → General → Workflow permissions → Read and write).
-3. Run the workflow once manually from the Actions tab.
-4. Confirm that the output branch contains both SVG files.
-5. Remove the comment markers around the block below.
-
+<!-- Contribution snake: generated daily by .github/workflows/snake.yml on the output branch. -->
 <div align="center">
 
 <picture>
@@ -334,7 +326,6 @@ Optional: Contribution Snake
 </picture>
 
 </div>
--->
 
 ---
 

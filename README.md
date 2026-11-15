@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0D1117,50:1E3A8A,100:6D28D9&amp;height=180&amp;section=header&amp;text=Swayam%20Krishna%20Sahu&amp;fontSize=42&amp;fontColor=FFFFFF&amp;animation=fadeIn&amp;fontAlignY=40&amp;desc=B.Tech%20CSE%20(AI%20%26%20ML)%20%C2%B7%20ITER%2C%20SOA%20University&amp;descAlignY=60&amp;descSize=16" alt="Swayam Krishna Sahu — B.Tech CSE (AI & ML), ITER, SOA University" />
+<img src="https://cdn.jsdelivr.net/gh/swayamkrishnasahu-png/swayamkrishnasahu-png@main/assets/header.svg" alt="Swayam Krishna Sahu — B.Tech CSE (AI & ML), ITER, SOA University" />
 
 <h1>Swayam Krishna Sahu</h1>
 
@@ -318,6 +318,6 @@ I'm always happy to connect, learn and collaborate on projects.
 
 ### Keep Learning. Keep Building. Keep Exploring. 🚀
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:6D28D9,50:1E3A8A,100:0D1117&amp;height=120&amp;section=footer" alt="" />
+<img src="https://cdn.jsdelivr.net/gh/swayamkrishnasahu-png/swayamkrishnasahu-png@main/assets/footer.svg" alt="" />
 
 </div>

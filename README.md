@@ -141,6 +141,26 @@ Transcript2Action is a Python application that converts transcripts into actiona
 
 ---
 
+### 🧪 Auto-Scaffold AI
+**AI-Powered Test Generation & Fix Proposal Tool**
+
+> Automated test generation with human-reviewed fixes.
+
+**Role:** AI/ML Developer & Contributor  
+**Focus:** Developer tooling · Automated testing · AI agents
+
+**What it is**  
+Auto-Scaffold AI is an AI-powered developer tool that detects a codebase's language and test framework, generates runnable tests, runs them, and proposes fixes as reviewable diffs. It never applies fixes automatically; changes require human approval through its CLI or local GUI.
+
+**My contributions**
+
+- Contributed to the AI-powered test generation workflow.
+- Worked on automated test execution and fix-proposal handling.
+- Helped maintain human-approval safeguards for code changes.
+- Collaborated on the developer tool and local GUI experience.
+
+---
+
 ### ⌨️ QuickAccessAI
 **AI-Focused Desktop Application**
 

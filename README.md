@@ -166,16 +166,17 @@ Auto-Scaffold AI is an AI-powered developer tool that detects a codebase's langu
 
 > Fast access to AI-powered functionality through a keyboard-driven interface.
 
-**Created and maintained by:** Swayam Krishna Sahu  
+**Maintained by:** Swayam Krishna Sahu  
+**Based on:** ScreenAssistant by Satyam1616  
 **Focus:** Desktop UI · AI integration · User experience
 
 **What it is**  
-An AI-focused desktop application I created, designed around giving users fast access to AI-powered functionality through a keyboard-driven interface. It captures on-screen text and returns AI-generated answers in a lightweight overlay.
+QuickAccessAI is a keyboard-driven desktop assistant that captures on-screen text and returns AI-generated answers in a lightweight overlay. It is maintained by me and builds on the original ScreenAssistant project by Satyam1616.
 
 **My contributions**
 
-- Designed and built the application.
-- Developed the frontend and user interface.
+- Rebranded and maintained the application.
+- Worked on the frontend and user interface.
 - Integrated AI-powered functionality.
 - Focused on user experience and accessibility.
 
